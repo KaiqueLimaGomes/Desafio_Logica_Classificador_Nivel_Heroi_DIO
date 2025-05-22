@@ -28,3 +28,7 @@ Se XP for maior ou igual a 10.001 = Radiante
 Ao final deve se exibir uma mensagem:
 "O Herói de nome {nome} está no nível de {nivel}"
 
+## Autores
+
+Felipe Aguiar - Tech Educator at DIO - linkedIn
+Kaique Lima - Este projeto foi replicado por mim com autorização da DIO - linkedIn
